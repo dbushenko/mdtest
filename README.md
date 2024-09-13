@@ -8,9 +8,14 @@ Text of paragraph 1
 ### Table example
 
 | Command | Description |
-| ---------------- | --- |
+| ---- | --- |
 | git status | List all modified files |
 | git diff | Show file diff |
+
+
+| abc | defghi |
+:-: | -----------:
+bar | baz
 
 ## Paragraph 2
 
