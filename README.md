@@ -5,6 +5,13 @@
 Text of paragraph 1
 
 
+### Table example
+
+| Command | Description |
+| ---------------- | --- |
+| git status | List all modified files |
+| git diff | Show file diff |
+
 ## Paragraph 2
 
 Text of paragraph 2
