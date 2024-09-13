@@ -15,6 +15,7 @@ Text of paragraph 1
 
 | abc | defghi |
 :-: | -----------:
+|<img width=200/>|<img width=500/>|
 bar | baz
 
 ## Paragraph 2
