@@ -13,8 +13,7 @@ Text of paragraph 1
 | git diff | Show file diff |
 
 
-|abc| defghi |
-|`                 `| `     ` |
+|` abc             `| `defghi` |
 :---: | ---:
 bar | baz
 
