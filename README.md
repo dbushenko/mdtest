@@ -12,10 +12,23 @@ Text of paragraph 1
 | git status | List all modified files |
 | git diff | Show file diff |
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 
 | abc | defghi |
 :-: | -----------:
-|<img width=200/>|<img width=500/>|
 bar | baz
 
 ## Paragraph 2
